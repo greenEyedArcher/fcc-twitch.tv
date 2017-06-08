@@ -40,7 +40,6 @@ for (var i=0; i<channels.length; i++){
           }
        
        $('#channels').append("<li>"+div+"<li>");
-    },
-    error: console.log("увы")
+    }
 }); 
 }
